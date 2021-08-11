@@ -1,0 +1,13 @@
+C:\Users\felip\OneDrive\Documentos\ATIVIDADE_1\bin\Debug\netcoreapp3.1\ATIVIDADE_1.exe
+C:\Users\felip\OneDrive\Documentos\ATIVIDADE_1\bin\Debug\netcoreapp3.1\ATIVIDADE_1.deps.json
+C:\Users\felip\OneDrive\Documentos\ATIVIDADE_1\bin\Debug\netcoreapp3.1\ATIVIDADE_1.runtimeconfig.json
+C:\Users\felip\OneDrive\Documentos\ATIVIDADE_1\bin\Debug\netcoreapp3.1\ATIVIDADE_1.runtimeconfig.dev.json
+C:\Users\felip\OneDrive\Documentos\ATIVIDADE_1\bin\Debug\netcoreapp3.1\ATIVIDADE_1.dll
+C:\Users\felip\OneDrive\Documentos\ATIVIDADE_1\bin\Debug\netcoreapp3.1\ATIVIDADE_1.pdb
+C:\Users\felip\OneDrive\Documentos\ATIVIDADE_1\obj\Debug\netcoreapp3.1\ATIVIDADE_1.csprojAssemblyReference.cache
+C:\Users\felip\OneDrive\Documentos\ATIVIDADE_1\obj\Debug\netcoreapp3.1\ATIVIDADE_1.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Documentos\ATIVIDADE_1\obj\Debug\netcoreapp3.1\ATIVIDADE_1.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Documentos\ATIVIDADE_1\obj\Debug\netcoreapp3.1\ATIVIDADE_1.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Documentos\ATIVIDADE_1\obj\Debug\netcoreapp3.1\ATIVIDADE_1.dll
+C:\Users\felip\OneDrive\Documentos\ATIVIDADE_1\obj\Debug\netcoreapp3.1\ATIVIDADE_1.pdb
+C:\Users\felip\OneDrive\Documentos\ATIVIDADE_1\obj\Debug\netcoreapp3.1\ATIVIDADE_1.genruntimeconfig.cache
